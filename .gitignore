@@ -1,0 +1,7 @@
+# Build artifacts
+build/
+*.o
+
+# Editor/OS files
+.vscode/
+.DS_Store
